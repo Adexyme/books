@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrkintoye.name.ng/books/sitemap.xml
